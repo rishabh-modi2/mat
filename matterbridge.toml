@@ -31,10 +31,6 @@ name="gateway1"
 enable=true
 
 [[gateway.inout]]
-account="whatsapp.mywhatsapp"
-channel="923408690090-1634310460@g.us"
-
-[[gateway.inout]]
 account="telegram.mytelegram"
 channel="-1001529960936"
 

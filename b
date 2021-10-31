@@ -33,7 +33,7 @@ enable=true
 
 [[gateway.inout]]
 account="whatsapp.mywhatsapp"
-channel= "918209611657-1633840645"
+channel= "918930028165-1634296185@g.us"
 
 [[gateway.inout]]
 account="telegram.mytelegram"
